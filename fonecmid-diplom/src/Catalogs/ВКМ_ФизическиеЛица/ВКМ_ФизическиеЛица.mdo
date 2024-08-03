@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3bcb394-e920-4ca6-8c90-2e505c043e4d">
+  <producedTypes>
+    <objectType typeId="e3b33f98-91ff-4f81-a8f9-4a968889cb0f" valueTypeId="decbccb0-a228-4bbd-ab11-ac8bb17ff323"/>
+    <refType typeId="170c44c1-79a8-40ba-b805-149d4a6e6d56" valueTypeId="49ed1f34-ad87-4294-8be8-f5f209b83507"/>
+    <selectionType typeId="a37cc082-75d1-42f3-bc5f-f6559c5f0150" valueTypeId="81353293-a548-4da1-b4ab-16753f64894a"/>
+    <listType typeId="781947f2-b5e6-42a8-893a-02afeff7a4ab" valueTypeId="6cfdc78f-eb8e-45ea-9f30-590307e0b94b"/>
+    <managerType typeId="ebc7ca96-9710-4a96-87a1-78b6fdb52c05" valueTypeId="63c2851f-801a-4191-90b7-ae88075e9359"/>
+  </producedTypes>
+  <name>ВКМ_ФизическиеЛица</name>
+  <synonym>
+    <key>ru</key>
+    <value>Физические лица</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_ФизическиеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ФизическиеЛица.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <extendedObjectPresentation>
+    <key>ru</key>
+    <value>Физические лицо</value>
+  </extendedObjectPresentation>
+  <extendedListPresentation>
+    <key>ru</key>
+    <value>Физические лица</value>
+  </extendedListPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="f90b6f58-c478-4b95-9c6a-023acbfc4288">
+    <name>Подразделение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подразделение</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

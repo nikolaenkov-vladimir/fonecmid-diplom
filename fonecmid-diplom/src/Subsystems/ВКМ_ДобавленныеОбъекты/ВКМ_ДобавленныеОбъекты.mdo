@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77d62241-cd4c-417b-9768-276efe726066">
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="77d62241-cd4c-417b-9768-276efe726066">
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
     <value>Добавленные объекты</value>
   </synonym>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.ДобавитьЭлементНастроек</picture>
+  </picture>
   <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
 </mdclass:Subsystem>
