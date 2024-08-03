@@ -18,5 +18,6 @@
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>CommonModule.ВКМ_ОбщегоНазначенияТелеграмСервер</content>
   <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправитьСообщениеТГ</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
