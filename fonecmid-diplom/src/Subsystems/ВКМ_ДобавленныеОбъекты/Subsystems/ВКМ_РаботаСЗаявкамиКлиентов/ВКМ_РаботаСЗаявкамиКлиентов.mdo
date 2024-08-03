@@ -17,5 +17,6 @@
   <content>Constant.ВКМ_ТокенУправленияТелеграмБотом</content>
   <content>Constant.ВКМ_ИдентификаторГруппыДляОповещения</content>
   <content>CommonModule.ВКМ_ОбщегоНазначенияТелеграмСервер</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
