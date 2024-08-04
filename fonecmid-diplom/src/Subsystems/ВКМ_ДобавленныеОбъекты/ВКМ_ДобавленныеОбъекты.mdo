@@ -10,4 +10,5 @@
     <picture>CommonPicture.ДобавитьЭлементНастроек</picture>
   </picture>
   <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
+  <subsystems>ВКМ_РасчетУправленческойЗарплаты</subsystems>
 </mdclass:Subsystem>

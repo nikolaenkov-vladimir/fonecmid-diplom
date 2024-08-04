@@ -81,7 +81,7 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <choiceParameterLinks>
-      <name>Отбор.ВКМ_ДатаНачалаДействияДоговора</name>
+      <name>Отбор.Владелец</name>
       <field>Document.ВКМ_ОбслуживаниеКлиента.Attribute.Клиент</field>
     </choiceParameterLinks>
     <choiceParameters>
