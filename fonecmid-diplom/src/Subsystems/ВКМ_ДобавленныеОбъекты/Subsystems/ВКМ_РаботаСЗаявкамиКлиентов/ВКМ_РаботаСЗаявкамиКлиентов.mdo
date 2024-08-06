@@ -24,5 +24,6 @@
   <content>Document.РеализацияТоваровУслуг</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеДокументаРеализацияТоваровИУслуг</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
