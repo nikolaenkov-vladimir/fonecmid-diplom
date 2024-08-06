@@ -21,5 +21,6 @@
   <content>ScheduledJob.ВКМ_ОтправитьСообщениеТГ</content>
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>Document.РеализацияТоваровУслуг</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
