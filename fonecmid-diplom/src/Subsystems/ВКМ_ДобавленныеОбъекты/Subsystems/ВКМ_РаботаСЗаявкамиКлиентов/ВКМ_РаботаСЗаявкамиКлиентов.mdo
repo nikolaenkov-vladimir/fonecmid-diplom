@@ -23,5 +23,6 @@
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>Document.РеализацияТоваровУслуг</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
