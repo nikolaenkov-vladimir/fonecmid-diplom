@@ -624,6 +624,11 @@
   <roles>Role.ЧтениеДополнительныхСведений</roles>
   <roles>Role.ЧтениеНСИ</roles>
   <roles>Role.ЧтениеУчетныхЗаписейЭлектроннойПочты</roles>
+  <roles>Role.ВКМ_ПодсистемаДобавленныеОбъекты</roles>
+  <roles>Role.ВКМ_ПодсистемаРаботаСЗаявкамиКлиентов</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</roles>
+  <roles>Role.ВКМ_ЧтениеОбслуживаниеКлиента</roles>
+  <roles>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>

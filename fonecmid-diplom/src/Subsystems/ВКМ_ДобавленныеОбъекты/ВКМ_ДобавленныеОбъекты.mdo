@@ -9,6 +9,11 @@
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.ДобавитьЭлементНастроек</picture>
   </picture>
+  <content>Role.ВКМ_ПодсистемаДобавленныеОбъекты</content>
+  <content>Role.ВКМ_ПодсистемаРаботаСЗаявкамиКлиентов</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ЧтениеОбслуживаниеКлиента</content>
+  <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
   <subsystems>ВКМ_РаботаСЗаявкамиКлиентов</subsystems>
   <subsystems>ВКМ_РасчетУправленческойЗарплаты</subsystems>
 </mdclass:Subsystem>
