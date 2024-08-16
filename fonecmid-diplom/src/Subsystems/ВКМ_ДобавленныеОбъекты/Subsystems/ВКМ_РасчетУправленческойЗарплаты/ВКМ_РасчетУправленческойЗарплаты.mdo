@@ -9,8 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
-  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
-  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_ГрафикРаботы</content>
+  <content>Catalog.ВКМ_ГрафикРаботы</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
