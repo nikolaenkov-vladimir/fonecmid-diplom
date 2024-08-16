@@ -7,14 +7,14 @@
     <listType typeId="a3baedd7-0eb7-4790-b322-a84dfaf5393c" valueTypeId="52d0d4cf-e537-414a-93e0-640a0a66849c"/>
     <managerType typeId="d2a2aa62-9fe9-4e81-a3e6-fedbec33857d" valueTypeId="28c40622-d2c3-4f33-89b3-429d517a9546"/>
   </producedTypes>
-  <name>ВКМ_ГрафикРаботы</name>
+  <name>ВКМ_ГрафикиРаботы</name>
   <synonym>
     <key>ru</key>
-    <value>График работы</value>
+    <value>Графики работы</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.ВКМ_ГрафикРаботы.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.ВКМ_ГрафикРаботы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ВКМ_ГрафикиРаботы.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
