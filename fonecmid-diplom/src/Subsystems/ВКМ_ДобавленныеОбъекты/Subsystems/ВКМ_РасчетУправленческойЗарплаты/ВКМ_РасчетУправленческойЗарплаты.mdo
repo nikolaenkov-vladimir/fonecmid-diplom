@@ -19,5 +19,6 @@
   <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
   <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
   <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
