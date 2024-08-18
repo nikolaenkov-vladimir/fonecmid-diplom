@@ -9,7 +9,7 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>InformationRegister.ВКМ_ГрафикРаботы</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
   <content>Catalog.ВКМ_ГрафикиРаботы</content>
   <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
   <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
@@ -27,5 +27,7 @@
   <content>Role.ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</content>
   <content>Role.ВКМ_ПодсистемаРасчётУправленческойЗарплаты</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
+  <content>Role.ВКМ_ИспользованиеОбаботкиЗаполнениеГрафикаРаботы</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>

@@ -9,7 +9,7 @@
     <recordType typeId="fb59952b-2828-496d-9f43-896af8f3afc6" valueTypeId="56903a16-9f7e-414a-b57c-ad0e084581a7"/>
     <recordManagerType typeId="09ad84b0-54f9-4610-9683-2af1cce4ef53" valueTypeId="79819867-8050-4664-9cb0-6dfbc4e18548"/>
   </producedTypes>
-  <name>ВКМ_ГрафикРаботы</name>
+  <name>ВКМ_ГрафикиРаботы</name>
   <synonym>
     <key>ru</key>
     <value>График работы</value>

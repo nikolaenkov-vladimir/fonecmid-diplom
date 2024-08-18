@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db4f183d-31cc-4069-89ca-50fb3cbf5774">
+  <name>ВКМ_ИспользованиеОбаботкиЗаполнениеГрафикаРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использование обаботки &quot;Заполнение графика работы&quot;</value>
+  </synonym>
+</mdclass:Role>

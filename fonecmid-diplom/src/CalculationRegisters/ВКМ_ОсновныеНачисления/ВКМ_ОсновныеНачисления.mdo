@@ -18,9 +18,9 @@
   <periodicity>Month</periodicity>
   <actionPeriod>true</actionPeriod>
   <basePeriod>true</basePeriod>
-  <schedule>InformationRegister.ВКМ_ГрафикРаботы</schedule>
-  <scheduleValue>InformationRegister.ВКМ_ГрафикРаботы.Resource.Значение</scheduleValue>
-  <scheduleDate>InformationRegister.ВКМ_ГрафикРаботы.Dimension.Дата</scheduleDate>
+  <schedule>InformationRegister.ВКМ_ГрафикиРаботы</schedule>
+  <scheduleValue>InformationRegister.ВКМ_ГрафикиРаботы.Resource.Значение</scheduleValue>
+  <scheduleDate>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.Дата</scheduleDate>
   <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartOfCalculationTypes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="7bbae96e-83bc-476b-b670-a0f0e7c1b098">
@@ -87,7 +87,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
-    <scheduleLink>InformationRegister.ВКМ_ГрафикРаботы.Dimension.ГрафикРаботы</scheduleLink>
+    <scheduleLink>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.ГрафикРаботы</scheduleLink>
   </attributes>
   <attributes uuid="5867433a-abdf-4cd0-a736-d508fd398198">
     <name>Показатель</name>
