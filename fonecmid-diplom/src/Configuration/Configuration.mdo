@@ -633,6 +633,7 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеНачислениеФиксированнойПремии</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</roles>
+  <roles>Role.ВКМ_ПодсистемаРасчётУправленческойЗарплаты</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>

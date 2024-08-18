@@ -26,5 +26,6 @@
   <content>Role.ВКМ_ДобавлениеИзменениеНачилениеЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</content>
+  <content>Role.ВКМ_ПодсистемаРасчётУправленческойЗарплаты</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="931e4a0b-c9f2-459f-8230-7d107f702aac">
+  <name>ВКМ_ПодсистемаРасчётУправленческойЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подсистема &quot;Расчёт управленческой зарплаты&quot;</value>
+  </synonym>
+</mdclass:Role>
