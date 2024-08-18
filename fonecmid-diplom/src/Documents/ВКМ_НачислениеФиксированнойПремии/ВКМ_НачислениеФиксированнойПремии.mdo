@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2798ad8b-651e-45ec-9b09-784d7c54a72f">
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2798ad8b-651e-45ec-9b09-784d7c54a72f">
   <producedTypes>
     <objectType typeId="da1886bc-f0e0-414e-a4e1-dff65844805d" valueTypeId="330a4810-21b8-48df-b9e5-7bb97a138373"/>
     <refType typeId="52ae9e6c-310a-40bb-9bfa-b5c0d5084a63" valueTypeId="f2c850bd-d367-4897-9a5d-acdb320c651a"/>
@@ -23,9 +23,77 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
+  <defaultObjectForm>Document.ВКМ_НачислениеФиксированнойПремии.Form.ФормаДокумента</defaultObjectForm>
   <registerRecords>CalculationRegister.ВКМ_Удержания</registerRecords>
   <registerRecords>CalculationRegister.ВКМ_ДополнительныеНачисления</registerRecords>
   <registerRecords>CalculationRegister.ВКМ_ОсновныеНачисления</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <forms uuid="617b023c-70c2-4170-8b2f-911ddb246579">
+    <name>ФормаДокумента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма документа</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <tabularSections uuid="3913a21a-6a78-482a-8617-7c2070f2d236">
+    <producedTypes>
+      <objectType typeId="d6f7a60c-a348-4584-971d-be0c12d07faa" valueTypeId="9150fc2e-6099-405b-b6df-c5714fff5ee3"/>
+      <rowType typeId="1783b98a-b95c-4784-ab31-b046f8323f4a" valueTypeId="61ff84b8-7bb5-4835-9281-d4ea711cd98b"/>
+    </producedTypes>
+    <name>СписокСотрудников</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список сотрудников</value>
+    </synonym>
+    <attributes uuid="1a088b61-aa1d-40dd-9c2d-34b1bc0bb2bc">
+      <name>Сотрудник</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сотрудник</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.ВКМ_ФизическиеЛица</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="510babc7-3580-4c3d-8c8f-1be4994a2f61">
+      <name>ВидНачисления</name>
+      <synonym>
+        <key>ru</key>
+        <value>Вид начисления</value>
+      </synonym>
+      <type>
+        <types>ChartOfCalculationTypesRef.ВКМ_ДополнительныеНачисления</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="f41483ac-9e03-48df-a7f9-76f868e231ee">
+      <name>СуммаНачислений</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сумма начислений</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <scale>2</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
 </mdclass:Document>
