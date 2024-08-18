@@ -23,5 +23,8 @@
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
   <content>InformationRegister.ВКМ_ГрафикиОтпусков</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеНачилениеЗарплаты</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
