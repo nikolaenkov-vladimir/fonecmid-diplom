@@ -9,25 +9,25 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
   <content>Catalog.ВКМ_ГрафикиРаботы</content>
-  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
-  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
-  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
-  <content>CalculationRegister.ВКМ_Удержания</content>
-  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
-  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
-  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
-  <content>Document.ВКМ_НачислениеЗарплаты</content>
-  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
-  <content>Document.ВКМ_ВыплатаЗарплаты</content>
-  <content>Document.ВКМ_ГрафикОтпусков</content>
-  <content>InformationRegister.ВКМ_ГрафикиОтпусков</content>
   <content>Role.ВКМ_ДобавлениеИзменениеНачилениеЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеВыплатаЗарплаты</content>
   <content>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</content>
   <content>Role.ВКМ_ПодсистемаРасчётУправленческойЗарплаты</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРаботы</content>
   <content>Role.ВКМ_ИспользованиеОбаботкиЗаполнениеГрафикаРаботы</content>
+  <content>Document.ВКМ_НачислениеЗарплаты</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>InformationRegister.ВКМ_ГрафикиРаботы</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеКОплатеРаботы</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>

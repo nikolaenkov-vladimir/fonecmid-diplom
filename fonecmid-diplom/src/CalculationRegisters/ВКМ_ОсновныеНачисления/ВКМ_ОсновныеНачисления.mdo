@@ -75,20 +75,6 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
-  <attributes uuid="e64f4725-3f7b-48cc-a5da-5bc55fa6ff7f">
-    <name>ГрафикРаботы</name>
-    <synonym>
-      <key>ru</key>
-      <value>График работы</value>
-    </synonym>
-    <type>
-      <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-    <fullTextSearch>Use</fullTextSearch>
-    <scheduleLink>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.ГрафикРаботы</scheduleLink>
-  </attributes>
   <attributes uuid="5867433a-abdf-4cd0-a736-d508fd398198">
     <name>Показатель</name>
     <synonym>
@@ -105,6 +91,20 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <attributes uuid="e64f4725-3f7b-48cc-a5da-5bc55fa6ff7f">
+    <name>ГрафикРаботы</name>
+    <synonym>
+      <key>ru</key>
+      <value>График работы</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ВКМ_ГрафикиРаботы</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <scheduleLink>InformationRegister.ВКМ_ГрафикиРаботы.Dimension.ГрафикРаботы</scheduleLink>
   </attributes>
   <dimensions uuid="d48ef9ec-7d2c-40f5-9b35-c19078c504a9">
     <name>Сотрудник</name>

@@ -24,6 +24,8 @@
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
   <defaultObjectForm>Document.ВКМ_ВыплатаЗарплаты.Form.ФормаДокумента</defaultObjectForm>
+  <realTimePosting>Deny</realTimePosting>
+  <registerRecords>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
   <forms uuid="f660b9a9-d652-4472-b173-954320ba8e06">
@@ -70,7 +72,6 @@
         <numberQualifiers>
           <precision>10</precision>
           <scale>2</scale>
-          <nonNegative>true</nonNegative>
         </numberQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>

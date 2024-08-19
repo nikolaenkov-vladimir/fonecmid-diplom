@@ -12,10 +12,11 @@
   <name>ВКМ_ДополнительныеНачисления</name>
   <synonym>
     <key>ru</key>
-    <value>Дополнительные начисления</value>
+    <value>ДополнительныеНачисления</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <periodicity>Month</periodicity>
+  <basePeriod>true</basePeriod>
   <chartOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartOfCalculationTypes>
   <dataLockControlMode>Managed</dataLockControlMode>
   <resources uuid="0fd1780d-8713-484d-bf0d-7fd60784b795">

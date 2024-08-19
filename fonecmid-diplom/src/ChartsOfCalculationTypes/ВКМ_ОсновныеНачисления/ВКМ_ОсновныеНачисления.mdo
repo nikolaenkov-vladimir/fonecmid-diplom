@@ -36,7 +36,7 @@
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <actionPeriodUse>true</actionPeriodUse>
   <predefined>
-    <items id="48d4624c-5482-4f5d-9b73-30d21e395931">
+    <items id="d9642876-d20a-4bad-a4e5-327554befccf">
       <name>Оклад</name>
       <description>Оклад</description>
       <code xsi:type="core:StringValue">
@@ -44,7 +44,7 @@
       </code>
       <displaced>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления.Отпуск</displaced>
     </items>
-    <items id="aee390e6-5fd2-443c-8884-6fa3ed31964e">
+    <items id="0c4b3f13-2104-4901-bc65-df363b0b596c">
       <name>Отпуск</name>
       <description>Отпуск</description>
       <code xsi:type="core:StringValue">

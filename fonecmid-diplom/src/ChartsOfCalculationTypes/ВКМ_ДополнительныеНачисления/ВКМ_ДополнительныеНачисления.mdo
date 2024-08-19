@@ -35,18 +35,18 @@
   <dependenceOnCalculationTypes>OnActionPeriod</dependenceOnCalculationTypes>
   <baseCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</baseCalculationTypes>
   <predefined>
-    <items id="b7a92cbc-78f2-4120-a214-56190e5ea18b">
-      <name>ВКМ_ПремияФиксированная</name>
-      <description>Премия фиксированная</description>
-      <code xsi:type="core:StringValue">
-        <value>1</value>
-      </code>
-    </items>
-    <items id="e94a5168-1df4-4508-b499-c25875fa5fc6">
+    <items id="f7e1d9a9-94d4-4711-809b-1d3bcc576746">
       <name>ВКМ_ПремияОтПродаж</name>
       <description>Премия от продаж</description>
       <code xsi:type="core:StringValue">
         <value>2</value>
+      </code>
+    </items>
+    <items id="8f5ab84a-ccdd-482c-a3a0-dd5b428f1357">
+      <name>ВКМ_ПремияФиксированная</name>
+      <description>Премия фиксированная</description>
+      <code xsi:type="core:StringValue">
+        <value>1</value>
       </code>
     </items>
   </predefined>
