@@ -24,5 +24,7 @@
   <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
   <content>Role.ВКМ_ЧтениеОбслуживаниеКлиента</content>
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
