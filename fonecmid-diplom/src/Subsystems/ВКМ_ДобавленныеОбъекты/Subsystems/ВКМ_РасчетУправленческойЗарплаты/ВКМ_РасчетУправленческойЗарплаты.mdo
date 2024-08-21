@@ -32,5 +32,8 @@
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <content>Report.ВКМ_РасчетыССотрудниками</content>
   <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</content>
+  <content>CommonModule.УправлениеДоступомИТ</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаРасходЗапланированныхОтпусков</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>

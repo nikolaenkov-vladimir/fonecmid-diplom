@@ -636,6 +636,10 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеГрафикОтпусков</roles>
   <roles>Role.ВКМ_ПодсистемаРасчётУправленческойЗарплаты</roles>
   <roles>Role.ВКМ_ИспользованиеОбаботкиЗаполнениеГрафикаРаботы</roles>
+  <roles>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</roles>
+  <roles>Role.ВКМ_ИспользованиеОтчетаАнализВыставленныхАктов</roles>
+  <roles>Role.ВКМ_ИспользованиеОтчетаРасчетыССотрудниками</roles>
+  <roles>Role.ВКМ_ИспользованиеОтчетаРасходЗапланированныхОтпусков</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>

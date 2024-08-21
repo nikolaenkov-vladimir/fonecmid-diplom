@@ -26,5 +26,7 @@
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</content>
+  <content>Role.ВКМ_ИспользованиеОтчетаАнализВыставленныхАктов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
