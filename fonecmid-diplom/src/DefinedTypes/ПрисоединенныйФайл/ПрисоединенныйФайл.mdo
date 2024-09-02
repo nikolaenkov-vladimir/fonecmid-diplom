@@ -14,9 +14,9 @@
     <types>CatalogRef.ПоступлениеТоваровУслугПрисоединенныеФайлы</types>
     <types>CatalogRef.ЗаказПокупателяПрисоединенныеФайлы</types>
     <types>CatalogRef.Файлы</types>
+    <types>CatalogRef.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
     <types>CatalogRef.КонтрагентыПрисоединенныеФайлы</types>
     <types>CatalogRef.ОрганизацииПрисоединенныеФайлы</types>
     <types>CatalogRef.ВерсииФайлов</types>
-    <types>CatalogRef.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</types>
   </type>
 </mdclass:DefinedType>

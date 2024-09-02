@@ -7894,17 +7894,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.ВКМ_МассовоеСозданиеАктов</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.ПоискИУдалениеДублей.Command.ПоискИУдалениеДублей</name>
 		<right>
 			<name>View</name>
@@ -11953,6 +11942,30 @@
 		<right>
 			<name>CollaborationSystemInfoBaseRegistration</name>
 			<value>false</value>
+		</right>
+		<right>
+			<name>MainWindowModeNormal</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeEmbeddedWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeFullscreenWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeKiosk</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>AnalyticsSystemClient</name>
+			<value>true</value>
 		</right>
 		<right>
 			<name>ExclusiveModeTerminationAtSessionStart</name>

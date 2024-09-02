@@ -20,7 +20,6 @@
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
   <content>Document.РеализацияТоваровУслуг</content>
-  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <content>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</content>
   <content>Role.ВКМ_ЧтениеОбслуживаниеКлиента</content>
   <content>Role.ВКМ_ДобавлениеИзменениеОбслуживаниеКлиента</content>
@@ -28,5 +27,6 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</content>
   <content>Role.ВКМ_ИспользованиеОтчетаАнализВыставленныхАктов</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
