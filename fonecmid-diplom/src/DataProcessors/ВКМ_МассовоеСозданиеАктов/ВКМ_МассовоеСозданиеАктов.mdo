@@ -50,6 +50,9 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:StringValue">
+        <value></value>
+      </fillValue>
     </attributes>
     <attributes uuid="f7e2528c-7f60-4df7-93ce-aee7d352d4e3">
       <name>ДокументРеализация</name>
@@ -63,6 +66,9 @@
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:StringValue">
+        <value></value>
+      </fillValue>
     </attributes>
   </tabularSections>
   <forms uuid="e942ce89-1c06-43bf-8dd8-92a28f15c9c6">
