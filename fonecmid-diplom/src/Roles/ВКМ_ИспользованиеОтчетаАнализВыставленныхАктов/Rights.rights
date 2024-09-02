@@ -4859,21 +4859,6 @@
 		</right>
 	</object>
 	<object>
-		<name>AccumulationRegister.ВКМ_ВыставленныеКОплатеРаботы</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.ПанельАдминистрированияБСП.Command.СинхронизацияДанных</name>
 		<right>
 			<name>View</name>
