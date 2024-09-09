@@ -28,5 +28,6 @@
   <content>Role.ВКМ_ИспользованиеОтчетаВыработкаСпециалистов</content>
   <content>Role.ВКМ_ИспользованиеОтчетаАнализВыставленныхАктов</content>
   <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>AccumulationRegister.ВКМ_ВыставленныеКОплатеРаботы</content>
   <parentSubsystem>Subsystem.ВКМ_ДобавленныеОбъекты</parentSubsystem>
 </mdclass:Subsystem>
